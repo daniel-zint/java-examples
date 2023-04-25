@@ -1,9 +1,8 @@
 package abstract_class;
 
-public abstract class A {
-    public abstract void f1();
-
-    public void f2(){
-        System.out.println("A f2");
+public class A {
+    public void f1() {
+        System.out.println("A f1");
     }
+
 }
